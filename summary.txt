@@ -1,0 +1,12 @@
+1. Why did you choose the tools, libraries, and language you used for the coding exercise?
+I chose Flask because it is lightweight and simple to use, easy to integrate with the frontend, and I have worked with it in the past.
+
+
+
+2. What are the advantages and disadvantages of your solution?
+The solution is efficient, as it uses in-memory data structures that speeds up development, and it is really easy to extend or build on as needed. The only drawback I can think of is limited scalability, which is due to the use of in-memory storage instead of databases. This leads to data loss on server restart, and the system is not designed for multiple users.
+
+
+
+3. What has been a favorite school/personal project thus far? What about it that challenged you?
+My favorite personal project was building a responsive web app for solving the Traveling Salesman Problem (TSP). The app features an interactive world map where users can select multiple locations, and it calculates the shortest possible route to visit all locations and return to the starting point. The most challenging aspect was optimizing the algorithm to efficiently find the shortest edges with minimal computational cost, ensuring the solution could scale to larger datasets.
